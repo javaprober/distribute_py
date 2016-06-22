@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Program: 项目上线自动化
-# Author : chenhao
-# Date   : 2016-01-03
 
 import ConfigParser
 import datetime

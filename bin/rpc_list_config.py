@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Program: rpc 服务配置
-# Author : chunxiao
-# Date   : 2016-04-29
+
 import collections
 
 # rpc 服务名
