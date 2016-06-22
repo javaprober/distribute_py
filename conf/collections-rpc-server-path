@@ -1,0 +1,13 @@
+# 项目名称
+first-party
+# 项目服务器路径
+src =
+# 本地路经
+local_file =
+# 待解压上文服务器全路径
+remote_file =
+# 文件备份目录
+remote_backup_dir =
+# 文件ori 备份目录
+remote_ori_backup_dir =
+
